@@ -5,3 +5,8 @@ Max discord control tool
 -mdct is a independent fork of openAsar
 
 btw - stands for standard
+
+# Roadmap
+
+Custom css manager
+Non-popup menu
