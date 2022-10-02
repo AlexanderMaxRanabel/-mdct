@@ -2,6 +2,6 @@
 Max discord control tool
 
 # What is -mdct?
--mdct is a private discord custamazion tool like BetterDiscord and GooseMod but its powered by OpenAsar
+-mdct is a independent fork of openAsar
 
 btw - stands for standard
